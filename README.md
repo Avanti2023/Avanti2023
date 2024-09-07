@@ -16,3 +16,10 @@ Fresher-Software Engineer
 
 
 [![Avantika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Avanti2023&bg_color=121212&color=f7fcfd&line=fd1717&point=f3f1f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+[![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=avimadarcmo)](["https://www.geeksforgeeks.org/user/avimadarcmo/") 
+   ![Avanti2023's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Avanti2023&theme=vue-dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Avanti2023&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+   
