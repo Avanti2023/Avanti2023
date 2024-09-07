@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Avantika
 
 Fresher-Software Engineer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on new innovative projects😁
 - 🤔 I’m looking forward on internship opportunities and job offers
@@ -19,7 +19,5 @@ Fresher-Software Engineer
 
 
 [![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=avimadarcmo)](["https://www.geeksforgeeks.org/user/avimadarcmo/") 
-   ![Avanti2023's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Avanti2023&theme=vue-dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Avanti2023&theme=default&show_icons=true&hide_border=true&layout=compact)
 
-   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avanti2023&show_icons=true&theme=radical)
