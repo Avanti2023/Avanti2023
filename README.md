@@ -15,7 +15,7 @@ Fresher-Software Engineer
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" />
 
 
-[![Avantika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Avanti2023&bg_color=121212&color=f7fcfd&line=fd1717&point=f3f1f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Avantika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Avanti2023&bg_color=121212&color=f7fcfd&line=fd1717&point=f3f1f1&area=true&hide_border=true)
 
 
  ![Avantika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avanti2023&show_icons=true&theme=radical) 
