@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Avantika
+## Hi there 👋 This is Avanthikaa
 
 Fresher-Software Engineer
 <img align="right" width="370" height="290" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
