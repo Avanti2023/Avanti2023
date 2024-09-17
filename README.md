@@ -18,4 +18,5 @@ Fresher-Software Engineer
 [![Avantika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Avanti2023&bg_color=121212&color=f7fcfd&line=fd1717&point=f3f1f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avanti2023&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avanti2023&show_icons=true&theme=radical) <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Avanti2023&" alt="Avanti2023" /></p>
+
