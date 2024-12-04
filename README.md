@@ -16,6 +16,17 @@ Fresher-Software Engineer
 
 
 ![Avantika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Avanti2023&bg_color=121212&color=f7fcfd&line=fd1717&point=f3f1f1&area=true&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avanti2023&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avanti2023&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
 
 
  ![Avantika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avanti2023&show_icons=true&theme=radical) 
