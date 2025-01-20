@@ -1,7 +1,7 @@
 ## Hi there 👋 This is Avantika
 
 Fresher-Software Engineer
-<img align="right" width="370" height="290" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
+<img align="right" width="300" height="290" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg5YzAxZThoZHp4MTN2dGNvdjRqamZ4YndiZncwdGg5bW1zM3l6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on new innovative projects😁
 - 🤔 I’m looking forward on internship opportunities and job offers
