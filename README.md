@@ -29,7 +29,5 @@ Fresher-Software Engineer
 
 
 
- ![Avantika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avanti2023&show_icons=true&theme=radical) 
-
 
  ![snake gif](https://github.com/Avanti2023/Avanti2023/blob/output/github-snake.svg)
