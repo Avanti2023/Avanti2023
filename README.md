@@ -4,7 +4,7 @@ Fresher-Software Engineer
 <img align="right" width="300" height="290" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg5YzAxZThoZHp4MTN2dGNvdjRqamZ4YndiZncwdGg5bW1zM3l6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on new innovative projects😁
-- 🤔 I’m looking forward on internship opportunities and job offers
+- 🤔 I'm looking forward to job opportunities and open to internships as well
 - 💬 Ask me about Tech
 - 😄 Pronouns: Techie
 ### I code in
