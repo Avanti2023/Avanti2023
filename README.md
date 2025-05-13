@@ -30,4 +30,4 @@ Fresher-Software Engineer
 
 
 
- ![snake gif](https://github.com/Avanti2023/Avanti2023/blob/output/github-snake.svg)
+
