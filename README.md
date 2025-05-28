@@ -1,7 +1,8 @@
 ## Hi there 👋 This is Avantika
 
 Fresher-Software Engineer
-<img align="right" width="300" height="290" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg5YzAxZThoZHp4MTN2dGNvdjRqamZ4YndiZncwdGg5bW1zM3l6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+<img align="right" width="300" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2trZGFiZDRtM281cXN3Y2MzcTNwdzNxbzNuYmh5eTdvbXp6NWE0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img src="
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on new innovative projects😁
 - 🤔 I'm looking forward to job opportunities and open to internships as well
