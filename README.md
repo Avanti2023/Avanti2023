@@ -32,7 +32,8 @@
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Avanti2023)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Avanti2023" alt="Avanti2023" /></a> </p>
+
 
 ![Avantika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Avanti2023&theme=react-dark&hide_border=true&area=true)
 <table>
