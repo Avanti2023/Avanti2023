@@ -24,7 +24,7 @@
  <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avanti2023&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Avanti2023&show_icons=true&theme=radical" height="150"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avanti2023&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
@@ -36,4 +36,5 @@
 
 ![Avantika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Avanti2023&theme=react-dark&hide_border=true&area=true)
 <table>
-
+ 
+![](https://komarev.com/ghpvc/?username=Avanti2023&label=Profile%20views&color=0e75b6&style=flat)
