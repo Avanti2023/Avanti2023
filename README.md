@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Avantika</h1>
-<h3 align="center">Fresher software engineer</h3>
+<h2 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Avantika;+Open+Source+Contributor;" />
+</h2>
+
 <img align="right" alt="Coding" width="400" src="https://datastories.konfhub.com/img/mascot/blogging.svg"/>
 
 🌱 I’m currently focusing on DSA
@@ -27,7 +29,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Avanti2023&show_icons=true&theme=radical" height="200"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avanti2023&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Avanti2023&theme=radical" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
