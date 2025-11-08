@@ -15,7 +15,9 @@
 
  😄 Pronouns: Techie
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f76e4f90-db80-40fd-92d8-456bb2640c4d" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2b37daf6-bd17-45c9-b797-e2402674c647"/>
+
+
 
 
 ### IDE and Tools I Use
@@ -35,6 +37,10 @@
 </table>
 
 ![](https://github-profile-trophy.vercel.app/?username=Avanti2023&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<h3 align="center">🎃 Hacktoberfest 2025 🎃</h3>
+
+[![An image of @avanti2023's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avanti2023)](https://holopin.io/@avanti2023)
 
 ![Avanti's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Avanti2023&theme=react-dark&hide_border=true&area=true)
 
