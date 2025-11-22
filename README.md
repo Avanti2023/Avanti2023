@@ -1,5 +1,5 @@
 <h2 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Avantika;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Avantika;" />
 </h2>
 
 <img align="right" alt="Coding" width="400" src="https://datastories.konfhub.com/img/mascot/blogging.svg"/>
@@ -38,10 +38,19 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Avanti2023&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="center">🎃 Hacktoberfest 2025 🎃</h3>
+<h3 align="center">GirlScript Summer of Code 2025 (GSSoC'25)</h3>
+<p align="center">
+<img width="190" height="190" alt="image" src="https://github.com/user-attachments/assets/5a66204a-3874-4402-b58d-82b46bebaeee" />
+<img width="190" height="190" alt="image" src="https://github.com/user-attachments/assets/5a37bf05-448c-4926-9235-ab34f74cb59b" />
+<img width="190" height="190" alt="image" src="https://github.com/user-attachments/assets/98281d7f-cd7c-4a23-adaf-aeb34e677498" />
+</p>
+
+
+
+<h3 align="center">Hacktoberfest 2025</h3>
 
 [![An image of @avanti2023's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avanti2023)](https://holopin.io/@avanti2023)
 
-![Avanti's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Avanti2023&theme=react-dark&hide_border=true&area=true)
+
 
 ![](https://komarev.com/ghpvc/?username=Avanti2023&label=Profile%20views&color=0e75b6&style=flat)
