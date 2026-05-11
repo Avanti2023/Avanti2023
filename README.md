@@ -14,23 +14,41 @@
 💬 Ask me about Tech
 
  😄 Pronouns: Techie
+
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f76e4f90-db80-40fd-92d8-456bb2640c4d" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2b37daf6-bd17-45c9-b797-e2402674c647"/>
+
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="50"/></td>
+    <td><img src="https://img.icons8.com/color/48/000000/python.png" width="50"/></td>
+    <td><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="50"/></td>
+    <td><img src="https://img.icons8.com/color/48/000000/html-5.png" width="50"/></td>
+    <td><img src="https://img.icons8.com/color/48/000000/css3.png" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/></td>
+  </tr>
+</table>
 
 
 
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" />
+
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50"/></td>
+    <td><img src="https://img.icons8.com/color/48/000000/pycharm.png" width="50"/></td>
+    <td><img src="https://img.icons8.com/color/50/000000/git.png" width="50"/></td>
+    <td><img src="https://img.icons8.com/color/480/null/notion--v1.png" width="50"/></td>
+  </tr>
+</table>
 
 
 
  <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Avanti2023&show_icons=true&theme=radical" height="200"/>
-    </td>
-    <td>
+
+   <td>
       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Avanti2023&theme=radical" alt="GitHub Streak" /></a>
     </td>
   </tr>
@@ -40,9 +58,24 @@
 
 <h3 align="center">GirlScript Summer of Code 2025 (GSSoC'25)</h3>
 <p align="center">
-<img width="190" height="190" alt="image" src="https://github.com/user-attachments/assets/5a66204a-3874-4402-b58d-82b46bebaeee" />
-<img width="190" height="190" alt="image" src="https://github.com/user-attachments/assets/5a37bf05-448c-4926-9235-ab34f74cb59b" />
-<img width="190" height="190" alt="image" src="https://github.com/user-attachments/assets/98281d7f-cd7c-4a23-adaf-aeb34e677498" />
+<table align="center">
+  <tr>
+    <td>
+      <img width="190" height="190" alt="image"
+      src="https://github.com/user-attachments/assets/5a66204a-3874-4402-b58d-82b46bebaeee" />
+    </td>
+
+  <td>
+      <img width="190" height="190" alt="image"
+      src="https://github.com/user-attachments/assets/5a37bf05-448c-4926-9235-ab34f74cb59b" />
+    </td>
+
+   <td>
+      <img width="190" height="190" alt="image"
+      src="https://github.com/user-attachments/assets/98281d7f-cd7c-4a23-adaf-aeb34e677498" />
+    </td>
+  </tr>
+</table>
 </p>
 
 
