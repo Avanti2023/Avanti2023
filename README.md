@@ -16,7 +16,6 @@
  😄 Pronouns: Techie
 
 ### I code in
-
 <table>
   <tr>
     <td><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="50"/></td>
